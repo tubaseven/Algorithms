@@ -1,0 +1,13 @@
+C:\Users\tugbas\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.exe
+C:\Users\tugbas\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.deps.json
+C:\Users\tugbas\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.json
+C:\Users\tugbas\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.runtimeconfig.dev.json
+C:\Users\tugbas\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.dll
+C:\Users\tugbas\source\repos\Algorithms\Algorithms\bin\Debug\netcoreapp3.1\Algorithms.pdb
+C:\Users\tugbas\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfoInputs.cache
+C:\Users\tugbas\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.AssemblyInfo.cs
+C:\Users\tugbas\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\tugbas\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.dll
+C:\Users\tugbas\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.pdb
+C:\Users\tugbas\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.genruntimeconfig.cache
+C:\Users\tugbas\source\repos\Algorithms\Algorithms\obj\Debug\netcoreapp3.1\Algorithms.csprojAssemblyReference.cache
