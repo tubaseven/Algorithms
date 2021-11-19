@@ -67,7 +67,7 @@ namespace Algorithms
             int[] Ab = new int[] { -1, -3 };
             MinPositiveNumber(Ab);
         }
-        public static int solutionTrendyolCAse(int[] A, int K) // en büyük çift toplam bulma
+        public static int ReturnBigOddNumber(int[] A, int K) // en büyük çift toplam bulma
         {
             int N = A.Length;
 
@@ -163,7 +163,7 @@ namespace Algorithms
         }
 
         // random string 
-        public static string solutionTrendyolCase2(int[] A, int K)
+        public static string ReturnRandomNum(int[] A, int K)
         {
             string ans = "";
             int N = A.Length;
